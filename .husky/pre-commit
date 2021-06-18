@@ -1,4 +1,0 @@
-#!/bin/sh
-."(dirname "$0")/_/husky.sh"
-
-npm run cache-post && git add cache/data.js
